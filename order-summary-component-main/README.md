@@ -6,7 +6,7 @@ this is an interesting project design to improve my Html and Css skills
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
-i learnt how to use flex box
+I learnt how to use flex box
 CSS grid
 Z-index
 testing the responsiveness of my app
@@ -14,7 +14,7 @@ testing the responsiveness of my app
 
 
 ## Where to find everything
-the codes can be viewed on my github page
+The codes can be viewed on my github page
 
 
 ## Building your project
